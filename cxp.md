@@ -45,7 +45,7 @@
 ***
 ### 插入图片
 
-![CXP](cxp_logo.png)
+![CXP](http://7tea8k.com1.z0.glb.clouddn.com/cxp_logo.png)
 
 ***
 ### 粗体和斜体
